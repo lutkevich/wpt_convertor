@@ -1,0 +1,10 @@
+C:\5\ExcelToGridView\ExcelToGridView\obj\Release\ExcelToGridView.csproj.ResolveComReference.cache
+C:\5\ExcelToGridView\ExcelToGridView\obj\Release\ExcelToGridView.csprojResolveAssemblyReference.cache
+C:\5\ExcelToGridView\ExcelToGridView\obj\Release\ExcelToGridView.Form1.resources
+C:\5\ExcelToGridView\ExcelToGridView\obj\Release\ExcelToGridView.Properties.Resources.resources
+C:\5\ExcelToGridView\ExcelToGridView\obj\Release\ExcelToGridView.csproj.GenerateResource.Cache
+C:\5\ExcelToGridView\ExcelToGridView\obj\Release\ExcelToGridView.AboutBox1.resources
+C:\5\ExcelToGridView\ExcelToGridView\bin\Release\Vnedorog waypoint convertor.exe
+C:\5\ExcelToGridView\ExcelToGridView\bin\Release\Vnedorog waypoint convertor.pdb
+C:\5\ExcelToGridView\ExcelToGridView\obj\Release\Vnedorog waypoint convertor.exe
+C:\5\ExcelToGridView\ExcelToGridView\obj\Release\Vnedorog waypoint convertor.pdb
