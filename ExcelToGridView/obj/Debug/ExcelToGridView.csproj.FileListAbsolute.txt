@@ -44,3 +44,17 @@ C:\5\ExcelToGridView\ExcelToGridView\obj\Debug\ExcelToGridView.csprojResolveAsse
 C:\5\ExcelToGridView\ExcelToGridView\obj\Debug\ExcelToGridView.Form1.resources
 C:\5\ExcelToGridView\ExcelToGridView\obj\Debug\ExcelToGridView.Properties.Resources.resources
 C:\5\ExcelToGridView\ExcelToGridView\obj\Debug\ExcelToGridView.csproj.GenerateResource.Cache
+C:\wpt_convertor\wpt_convertor-master\ExcelToGridView\obj\Debug\ExcelToGridView.csproj.ResolveComReference.cache
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Debug\ExcelToGridView.csproj.ResolveComReference.cache
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Debug\ExcelToGridView.csprojResolveAssemblyReference.cache
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Debug\ExcelToGridView.AboutBox1.resources
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Debug\ExcelToGridView.Form1.resources
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Debug\ExcelToGridView.Properties.Resources.resources
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Debug\ExcelToGridView.csproj.GenerateResource.Cache
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Debug\Vnedorog waypoint convertor.exe
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Debug\Vnedorog waypoint convertor.pdb
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Debug\Excel.pdb
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Debug\Vnedorog waypoint convertor.exe
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Debug\Vnedorog waypoint convertor.pdb
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Debug\CSharpJExcel.dll
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Debug\CSharpJExcel.pdb

@@ -8,3 +8,15 @@ C:\5\ExcelToGridView\ExcelToGridView\bin\Release\Vnedorog waypoint convertor.exe
 C:\5\ExcelToGridView\ExcelToGridView\bin\Release\Vnedorog waypoint convertor.pdb
 C:\5\ExcelToGridView\ExcelToGridView\obj\Release\Vnedorog waypoint convertor.exe
 C:\5\ExcelToGridView\ExcelToGridView\obj\Release\Vnedorog waypoint convertor.pdb
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Release\ExcelToGridView.csproj.ResolveComReference.cache
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Release\Vnedorog waypoint convertor.exe
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Release\Vnedorog waypoint convertor.pdb
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Release\Vnedorog waypoint convertor.exe
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Release\Vnedorog waypoint convertor.pdb
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Release\CSharpJExcel.dll
+C:\git_proj\wpt_conv\ExcelToGridView\bin\Release\CSharpJExcel.pdb
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Release\ExcelToGridView.csprojResolveAssemblyReference.cache
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Release\ExcelToGridView.AboutBox1.resources
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Release\ExcelToGridView.Form1.resources
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Release\ExcelToGridView.Properties.Resources.resources
+C:\git_proj\wpt_conv\ExcelToGridView\obj\Release\ExcelToGridView.csproj.GenerateResource.Cache

@@ -1433,7 +1433,7 @@
 </value>
   </data>
   <data name="textBoxDescription.Text" xml:space="preserve">
-    <value>Программа конвертирует точки из Excel файла в файл WPT для ОзиExplorer 
+    <value>Программа конвертирует точки из Excel файла в файл WPT для Ozi Explorer 
 Входной формат Excel:
 Номер точки	Широта, градусы	Широта минуты.доли имнтут	Долгота, градусы	Долгота, минуты.доли минут	Баллы	Примечание	
 Wpt1	55	46,8622	37	50,7506	1	derevo	

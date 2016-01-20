@@ -50,6 +50,9 @@
     <ApplicationIcon>favicon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CSharpJExcel">
+      <HintPath>..\..\CSharpJExcel\CSharpJExcel\CSharpJExcel\obj\Debug\CSharpJExcel.dll</HintPath>
+    </Reference>
     <Reference Include="Excel">
       <HintPath>..\Dll\output\output\net20\Excel.dll</HintPath>
     </Reference>
